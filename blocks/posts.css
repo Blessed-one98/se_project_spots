@@ -9,12 +9,12 @@
   padding-bottom: 40px;
 }
 
-.posts__container {
-  width: 413px;
-  height: 445px;
-}
-
 .post {
   width: 413px;
   height: 413px;
+}
+
+.posts__container {
+  width: 413px;
+  height: 445px;
 }
