@@ -1,0 +1,15 @@
+.posts {
+  width: 1280px;
+  height: 970px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding-bottom: 40px;
+}
+
+.posts__container {
+  height: 445px;
+  width: 413px;
+}
