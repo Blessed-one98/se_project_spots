@@ -10,6 +10,11 @@
 }
 
 .posts__container {
-  height: 445px;
   width: 413px;
+  height: 445px;
+}
+
+.post {
+  width: 413px;
+  height: 413px;
 }
