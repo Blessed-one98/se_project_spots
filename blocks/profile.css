@@ -2,7 +2,7 @@
   display: flex;
   padding: 34px 0 20px;
   max-width: 1280px;
-  margin: 0;
+  margin: 0 auto;
   justify-content: space-between;
   padding-bottom: 20px;
 }
@@ -37,7 +37,18 @@
 }
 
 .profile__edit-btn {
+  width: 107.34px;
+  height: 16px;
+  gap: 8px;
+  opacity: 0.7;
   margin-top: auto;
+  border: none;
+  background: none;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #212121;
 }
 
 .profile__add-btn {
@@ -48,4 +59,9 @@
   padding: 18px 32px 18px 32px;
   gap: 8px;
   background-color: #212121;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #fcf5e5;
 }

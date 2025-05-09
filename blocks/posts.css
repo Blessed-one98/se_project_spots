@@ -1,12 +1,9 @@
 .posts {
-  width: 1280px;
-  height: 970px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  max-width: 1300px;
   margin: 0 auto;
-  padding-bottom: 40px;
 }
 
 .post {
@@ -15,6 +12,10 @@
 }
 
 .posts__container {
+}
+
+.posts__image {
+  scale: object-fit;
   width: 413px;
   height: 445px;
 }
