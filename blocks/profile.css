@@ -4,7 +4,9 @@
   max-width: 1280px;
   margin: 0 auto;
   justify-content: space-between;
-  padding-bottom: 20px;
+  padding-bottom: 40px;
+  margin-bottom: 40px;
+  border-bottom: 1px solid rgba(84, 84, 84, 0.7);
 }
 
 .profile__avatar {
@@ -37,7 +39,9 @@
 }
 
 .profile__edit-btn {
-  width: 107.34px;
+  display: flex;
+  white-space: nowrap;
+  align-items: center;
   height: 16px;
   gap: 8px;
   opacity: 0.7;
@@ -52,12 +56,15 @@
 }
 
 .profile__add-btn {
+  margin-top: auto;
   margin-left: auto;
-  width: 149px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   height: 52px;
+  gap: 8px;
   border-radius: 8pt;
   padding: 18px 32px 18px 32px;
-  gap: 8px;
   background-color: #212121;
   font-weight: 500;
   font-size: 16px;

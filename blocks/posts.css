@@ -1,14 +1,13 @@
 .posts {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 20px;
+  gap: 40px 20px;
   max-width: 1300px;
   margin: 0 auto;
 }
 
 .post {
   width: 413px;
-  height: 413px;
 }
 
 .posts__container {
@@ -17,5 +16,12 @@
 .posts__image {
   scale: object-fit;
   width: 413px;
-  height: 445px;
+  height: 413px;
+}
+
+.post_description {
+  margin-top: 10px;
+  color: #000;
+  font-weight: 500;
+  font-size: 16px;
 }
