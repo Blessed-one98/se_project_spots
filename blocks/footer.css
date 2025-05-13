@@ -1,0 +1,13 @@
+.footer {
+  position: relative;
+  padding: 60px 0;
+}
+
+.footer__text {
+  position: absolute;
+  width: 104px;
+  height: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
