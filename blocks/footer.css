@@ -1,6 +1,10 @@
 .footer {
+  width: 100%;
   position: relative;
   padding: 60px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .footer__text {
@@ -10,4 +14,10 @@
   left: 50%;
   transform: translateX(-50%);
   text-align: center;
+  opacity: 0.7;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  color: #212121;
 }
