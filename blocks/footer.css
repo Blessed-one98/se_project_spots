@@ -1,6 +1,5 @@
 .footer {
   width: 100%;
-  position: relative;
   padding: 60px 0;
   display: flex;
   justify-content: center;
@@ -8,11 +7,6 @@
 }
 
 .footer__text {
-  position: absolute;
-  width: 104px;
-  height: 16px;
-  left: 50%;
-  transform: translateX(-50%);
   text-align: center;
   opacity: 0.7;
   font-weight: 400;
