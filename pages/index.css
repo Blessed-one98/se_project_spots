@@ -4,3 +4,7 @@
 @import url(../blocks/posts.css);
 @import url(../blocks/profile.css);
 @import url(../blocks/footer.css);
+
+.body {
+  margin: 0;
+}
