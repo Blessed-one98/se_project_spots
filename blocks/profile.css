@@ -19,7 +19,6 @@
   flex-direction: column;
   width: 420px;
   height: 190px;
-  justify-content: space-between;
 }
 
 .profile__name {
@@ -29,7 +28,6 @@
   line-height: 1;
   letter-spacing: 0%;
   color: #212121;
-  text-align: center;
 }
 
 .profile__description {
@@ -97,6 +95,11 @@
 
   .profile__name {
     gap: 6px;
+    font-size: 20px;
+  }
+
+  .profile__description {
+    font-size: 16px;
   }
 
   .profile__buttons {
@@ -104,6 +107,10 @@
     flex-direction: column;
     align-items: center;
     width: 100%;
+  }
+
+  .profile__edit-btn {
+    font-size: 16px;
   }
 
   .profile__add-btn {
