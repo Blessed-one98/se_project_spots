@@ -1,21 +1,40 @@
-# Project 3: Spots
+# Spots
 
-### Overview  
+**Spots** is a responsive website developed as part of the **TripleTen Sprint 3 project**.  
+The project focuses on creating a clean, user-friendly interface using HTML and CSS, with full support for desktop and mobile devices.
 
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+## 🌐 Project Overview
+
+Spots is a static website designed to practice modern front-end fundamentals, including semantic HTML, responsive layouts, and organized CSS styling. The goal of the project is to demonstrate foundational web development skills while following professional standards.
+
+## ✨ Features
+
+- Responsive layout for desktop and mobile devices
+- Clean and modern user interface
+- Semantic HTML5 structure
+- Organized CSS using best practices
+- Cross-browser compatibility
+
+## 🛠 Technologies Used
+
+- **HTML5**
+- **CSS3**
+
+## 📱 Responsive Design
+
+The website is optimized for:
+
+- Desktop browsers
+- Tablets
+- Mobile devices
+
+Responsive behavior is achieved using flexible layouts and media queries.
+
+## 🚀 How to View the Project
+
+You can view the project locally by following these steps:
+
+```bash
+git clone https://github.com/Blessed-one98/se_project_spots.git
+
+```
