@@ -35,6 +35,5 @@ Responsive behavior is achieved using flexible layouts and media queries.
 You can view the project locally by following these steps:
 
 ```bash
-git clone https://github.com/Blessed-one98/se_project_spots.git
-
+git clone https://blessed-one98.github.io/se_project_spots/
 ```
