@@ -6,8 +6,7 @@
   margin: 0 auto;
   position: relative;
   border-bottom: 1px solid #21212166;
-  row-gap: 20px;
-  padding-bottom: 20;
+  row-gap: 40px 20px;
   padding: 20px 0 40px;
 }
 
